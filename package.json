@@ -1,0 +1,20 @@
+{
+  "name": "calculadora-de-imc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Cleyan Sampaio",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/auryan/calculadora-de-imc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/auryan/calculadora-de-imc/issues"
+  },
+  "homepage": "https://github.com/auryan/calculadora-de-imc#readme"
+}
