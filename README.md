@@ -1,4 +1,10 @@
-# Calculadora de IMC
+<div align="center">
+
+![Logo do repositório](/../media/repo-logo.png)
+
+</div>
+
+## Sobre
 Calculadora de IMC com interface gráfica feita em Java.
 
 ## Membros da equipe:
